@@ -1,4 +1,4 @@
-# ids706-postgres-demo
+# IDS 706 - Data Engineering - Postgres Demo
 
 # 5. Try out some queries to make sure all is working properly
 Here are the queries and results for part 5 of the demo:
